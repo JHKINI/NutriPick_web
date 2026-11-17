@@ -1,4 +1,5 @@
-# NutriPick 프로젝트 기획 정리
+# NutriPick 영양제 추천 웹 멀티 페이지 프로젝트 
+생활패턴·식습관 선택값을 분석해 영양제를 추천하는 JavaScript 기반 웹서비스
 
 ## 1. 주요 요소
 - 서비스명: NutriPick
