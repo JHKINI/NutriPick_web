@@ -1,13 +1,33 @@
 # NutriPick 영양제 추천 웹 멀티 페이지 프로젝트 
-생활패턴·식습관 선택값을 분석해 영양제를 추천하는 JavaScript 기반 웹서비스
-## 결과 화면 
-| 메인페이지 | 설문페이지 |
-| --- | --- | 
-| ![home](images/Test1.png) | ![Rcomand](images/Test2.png) | 
-| 맞춤추천결과 | 장바구니 | 
-| ![Result](images/Test3.png) | ![Cart](images/Test4.png) | 
-| 후기작성 | 영양제 전체목록 | 
-| ![Review](images/Test5.png) | ![Itemlist](images/Test6.png) | 
+생활패턴·식습관 선택값을 분석해 영양제를 추천하는 JavaScript 기반 웹서비스 
+## 결과 화면
+
+<table>
+  <tr>
+    <th align="center">메인페이지</th>
+    <th align="center">설문페이지</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/Test1.png"></td>
+    <td align="center"><img src="images/Test2.png"></td>
+  </tr>
+  <tr>
+    <th align="center">맞춤추천결과</th>
+    <th align="center">장바구니</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/Test3.png"></td>
+    <td align="center"><img src="images/Test4.png"></td>
+  </tr>
+  <tr>
+    <th align="center">후기작성</th>
+    <th align="center">영양제 전체목록</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="images/Test5.png"></td>
+    <td align="center"><img src="images/Test6.png"></td>
+  </tr>
+</table>
 
 ## 1. 주요 요소
 - 서비스명: NutriPick
