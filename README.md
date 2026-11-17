@@ -1,5 +1,15 @@
 # NutriPick 영양제 추천 웹 멀티 페이지 프로젝트 
 생활패턴·식습관 선택값을 분석해 영양제를 추천하는 JavaScript 기반 웹서비스
+## 결과 화면 
+| 메인페이지 | 설문페이지 |
+| --- | --- | 
+| ![home](img/Test1.png) | ![chat](img/Test2.png) | 
+| 맞춤추천결과 | 장바구니 | 
+| --- | --- | 
+| ![home](img/Test3.png) | ![chat](img/Test4.png) | 
+| 후기작성 | 영양제 전체목록 | 
+| --- | --- | 
+| ![home](img/Test5.png) | ![chat](img/Test6.png) | 
 
 ## 1. 주요 요소
 - 서비스명: NutriPick
