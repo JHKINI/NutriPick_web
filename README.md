@@ -3,13 +3,13 @@
 ## 결과 화면 
 | 메인페이지 | 설문페이지 |
 | --- | --- | 
-| ![home](img/Test1.png) | ![chat](img/Test2.png) | 
+| ![home](images/Test1.png) | ![Rcomand](images/Test2.png) | 
 | 맞춤추천결과 | 장바구니 | 
 | --- | --- | 
-| ![home](img/Test3.png) | ![chat](img/Test4.png) | 
+| ![Result](images/Test3.png) | ![Cart](images/Test4.png) | 
 | 후기작성 | 영양제 전체목록 | 
 | --- | --- | 
-| ![home](img/Test5.png) | ![chat](img/Test6.png) | 
+| ![Review](images/Test5.png) | ![Itemlist](images/Test6.png) | 
 
 ## 1. 주요 요소
 - 서비스명: NutriPick
