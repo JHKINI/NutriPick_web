@@ -5,10 +5,8 @@
 | --- | --- | 
 | ![home](images/Test1.png) | ![Rcomand](images/Test2.png) | 
 | 맞춤추천결과 | 장바구니 | 
-| --- | --- | 
 | ![Result](images/Test3.png) | ![Cart](images/Test4.png) | 
 | 후기작성 | 영양제 전체목록 | 
-| --- | --- | 
 | ![Review](images/Test5.png) | ![Itemlist](images/Test6.png) | 
 
 ## 1. 주요 요소
